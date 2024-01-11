@@ -1,0 +1,4 @@
+moviepy==1.0.3
+pyTelegramBotAPI==4.14.1
+pytube==15.0.0
+youtube-dl==2021.12.17
